@@ -1,0 +1,17 @@
+[
+    {
+        "name": "OC Profile",
+        "label": "OC",
+        "path": "OC_config"
+    },
+    {
+        "name": "Eco Profile",
+        "label": "Eco",
+        "path": "Eco_config"
+    },
+    {
+        "name": "Test Profile",
+        "label": "Test",
+        "path": "Test_config"
+    }
+]
