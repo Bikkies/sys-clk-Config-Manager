@@ -16,12 +16,12 @@ You can also discard current and use the same profile you are already on. For ex
 
 **Copying current changes to a specific profile** - these options will completely overwrite any of the saved configs with your current sys-clk config.ini. For example if you load your OC profile and then select `Copy current to Test` it will completely wipe out any settings for any games you've set in that `Test` config slot and overwrite it with all of the config for all of the games you've set in your OC profile. It does not switch the current profile you are using.
 
-- **Discard current and use OC**: copy `/config/sys-clk/OC_config/config.ini` to `/config/sys-clk/config.ini` and refresh active profile
-- **Discard current and use Eco**: copy `/config/sys-clk/Eco_config/config.ini` to `/config/sys-clk/config.ini` and refresh active profile
-- **Discard current and use Test**: copy `/config/sys-clk/Test_config/config.ini` to `/config/sys-clk/config.ini` and refresh active profile
-- **Copy current to OC**: copy `/config/sys-clk/config.ini` to `/config/sys-clk/OC_config/config.ini`
-- **Copy current to Eco**: copy `/config/sys-clk/config.ini` to `/config/sys-clk/Eco_config/config.ini`
-- **Copy current to Test**: copy `/config/sys-clk/config.ini` to `/config/sys-clk/Test_config/config.ini`
+- **Discard current and use OC**: will copy `/config/sys-clk/OC_config/config.ini` to `/config/sys-clk/config.ini` and refresh active profile
+- **Discard current and use Eco**: will copy `/config/sys-clk/Eco_config/config.ini` to `/config/sys-clk/config.ini` and refresh active profile
+- **Discard current and use Test**: will copy `/config/sys-clk/Test_config/config.ini` to `/config/sys-clk/config.ini` and refresh active profile
+- **Copy current to OC**: will copy `/config/sys-clk/config.ini` to `/config/sys-clk/OC_config/config.ini`
+- **Copy current to Eco**: will copy `/config/sys-clk/config.ini` to `/config/sys-clk/Eco_config/config.ini`
+- **Copy current to Test**: will copy `/config/sys-clk/config.ini` to `/config/sys-clk/Test_config/config.ini`
 
 ## Getting Started
 
