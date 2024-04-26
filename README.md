@@ -25,6 +25,12 @@ You can also discard current and use the same profile you are already on. For ex
 
 ## Getting Started
 
+### Installation
+ - [Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) is required
+ - Download the .zip file from the [latest release](https://github.com/Bikkies/sys-clk-Config-Manager/releases/latest)
+ - Extract the zip file to your sd card
+
+### Initial setup
 None of the below steps are required to start using the tool, but you can follow them if you want to start with config already in place for each profile.
 
 1. Create these directories on your SD card. If these folders do not exist, they will be created when you first switch profiles or use a manual option to copy config.
